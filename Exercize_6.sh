@@ -1,3 +1,2 @@
 WHICHDATE=$(date)
 echo "$WHICHDATE"
-
